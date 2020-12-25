@@ -1,0 +1,100 @@
+baseURL = "http://carolinedantas.com"
+
+title = "Cads "
+theme = "hugo-coder"
+defaultContentLanguage = "pt-br"
+
+paginate = 20
+
+[params]
+  author = "Caroline Dantas"
+  info = "Python Developer | Data Scientist "
+  description = "Caroline Dantas' personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/bio.jpg"
+  #gravatar = "john.doe@example.com"
+  favicon_32 = "/images/favicon-96x96.png"
+  colorScheme = "auto"
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/_caaddss/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/_caaddss/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "projects/"
+
+         
+
+    [languages.pt-br]
+        languageName = "Português"
+        title = "Cads"
+
+        [languages.pt-br.params]
+            author = "Caroline Dantas"
+            info = "Desenvolvedora Python | Cientista de Dados"
+            description = "Sítio pessoal de Caroline Dantas"
+            keywords = "blog,desenvolvedora,pessoal"
+            #footerContent = "Coloque algum texto aqui."
+
+        [languages.pt-br.menu]
+
+            [[languages.pt-br.menu.main]]
+            name = "Sobre"
+            weight = 1
+            url = "about/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            [[languages.pt-br.menu.main]]
+            name = "Projetos"
+            weight = 3
+            url = "projects/"
+
+        
