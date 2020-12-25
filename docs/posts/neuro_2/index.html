@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="pt-br">
+
+    <meta name="author" content="Caroline Dantas">
+    <meta name="description" content="Entendendo sobre uma das principais técnicas utilizadas em estudos neurocientificos">
+    <meta name="keywords" content="blog,desenvolvedora,pessoal">
+
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://carolinedantas.com/images/N90.jpg"/>
+
+<meta name="twitter:title" content="Uma introdução ao fMRI"/>
+<meta name="twitter:description" content="Entendendo sobre uma das principais técnicas utilizadas em estudos neurocientificos"/>
+
+    <meta property="og:title" content="Uma introdução ao fMRI" />
+<meta property="og:description" content="Entendendo sobre uma das principais técnicas utilizadas em estudos neurocientificos" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://carolinedantas.com/posts/neuro_2/" />
+<meta property="og:image" content="http://carolinedantas.com/images/N90.jpg" />
+<meta property="article:published_time" content="2018-08-08T00:00:00+00:00" />
+<meta property="article:modified_time" content="2018-08-08T00:00:00+00:00" /><meta property="og:site_name" content="Cads" />
+
+
+
+
+    <title>
+  Uma introdução ao fMRI · Cads
+</title>
+
+    
+      <link rel="canonical" href="http://carolinedantas.com/posts/neuro_2/">
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css"
+      integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css">
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.f01c647a0d25b40da992a37c3376291185eed8a50ced8c26cc2c0bcfe38c97df.css" integrity="sha256-8Bxkeg0ltA2pkqN8M3YpEYXu2KUM7YwmzCwLz&#43;OMl98=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="/css/coder-dark.min.126ad3988d46bdae6217a11105b53c9662bca05f39d42d3c0fb366919d334620.css" integrity="sha256-EmrTmI1Gva5iF6ERBbU8lmK8oF851C08D7NmkZ0zRiA=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.79.1" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-auto"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Cads
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">Sobre</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projetos</a>
+            </li>
+          
+        
+        
+          
+          
+          
+            
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="http://carolinedantas.com/en/">English</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Uma introdução ao fMRI</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2018-08-08T00:00:00Z'>
+                August 8, 2018
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              2 minutos de leitura
+            </span>
+          </div>
+          <div class="authors">
+    <i class="fa fa-user" aria-hidden="true"></i>
+      <a href="/authors/caroline-dantas/">Caroline Dantas</a></div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p>Vamos começar pelo que é uma Ressonância Magnética?
+É um dos exames de imagem mais modernos que existem atualmente, de simples obtenção, não-invasivo, o exame é hoje uma das principais ferramentas para identificação de doenças no meio clínico, mas também por meio desse temos a possibilidade de estudar os órgãos do corpo humano através de imagens de alta definição.</p>
+<p>As imagens são obtidas através de campo magnético forte que é gerando por uma bobina magnética(um grande imã), que tem a capacidade de intereção com os protons de Hidrogênio, dado ao seu forte campo magnético. O Hidrogênio é escolhido para essa função por ser um dos elementos mais abundantes no corpo humano, e também dado a simplicidade do seu núcleo,é possível obter as imagens em 3D e com excelente definição após a aplicação de uma onda de radiofrequência, que após atravessar o tecido é modificado, e o sinal coletado, seja por uma bobina ou uma antena, é convertido nessas imagens.</p>
+<p>Mas e então o que é fMRI?
+Através da Ressonância Magnética funcional, podemos estudar a atividade da função encefálica, para tal, várias imagens são tomadas em um intervalo de tempo. Usando programas estatisticos podemos avaliar o sinal do BOLD (blood oxygen level dependent), ou seja, nível de depedência de oxigênio sanguíneo, quando há um aumento da atividade neuronal em uma determinada região do encéfalo, há uma maior necessidade de irrigação sanguínea, consequentemente, dependência de oxigênio. A modificação no campo é dada pela diferença entre a oxigenação e desoxigenação.</p>
+<p>Como o sinal é muito rápido, as imagens funcionais não tem uma resolução tão alta, e para corrigir isso são sobrepostos com as imagens anatômicas.</p>
+<p>Bibliografia</p>
+<p>Mazzola, Alessandro A. Ressonância magnética: princípios de formação da imagem e aplicações em imagem funcional.Revista Brasileira de Física Médica. 2009;3(1):117-29.</p>
+<p><a href="https://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html">https://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html</a></p>
+<p>Eloyan, Any et.al. Analytic Programming with fMRI Data: A Quick-Start Guide for Statisticians Using R.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+      <h3>See also in IA</h3>
+      <nav>
+        <ul>
+        
+        
+          
+            <li>
+              <a href="/posts/neuro_3/">O processamento da linguagem e a suas nuances</a>
+            </li>
+          
+        
+          
+        
+          
+            <li>
+              <a href="/posts/neuro_1/">Uma introdução a neurociência e a Inteligência Artificial</a>
+            </li>
+          
+        
+        </ul>
+      </nav>
+    
+  
+    
+    
+    
+  
+</section>
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'], ['\\(', '\\)']
+        ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  </script>
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+      
+        ©
+        
+        2020
+         Caroline Dantas 
+      
+      
+         · 
+        Promovido por <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+        
+        <script src="/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js"></script>
+      
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </body>
+
+</html>

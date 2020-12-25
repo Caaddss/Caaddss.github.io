@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://carolinedantas.com/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/en/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/tags/"
+                />
+  </url>
+  
+</urlset>

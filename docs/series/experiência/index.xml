@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiência on Cads</title>
+    <link>http://carolinedantas.com/series/experi%C3%AAncia/</link>
+    <description>Recent content in Experiência on Cads</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://carolinedantas.com/series/experi%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como foi descobrir ser TDAH na vida adulta?!</title>
+      <link>http://carolinedantas.com/posts/tdah/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://carolinedantas.com/posts/tdah/</guid>
+      <description>Carol, para de viajar… Com certeza essa foi umas das frase que eu mais ouvi na minha vida, na escola sempre fui a criança desatenta que se perdia no seu próprio mundo, mas pasmem, isso nunca atrapalhou meu desenvolvimento escolar, pelo menos até chegar a faculdade. Então, eu nunca desconfiaria de sofrer um transtorno que o diagnóstico se dá exatamente pelas dificuldades escolares das crianças!! “Não posso esquecer de ligar o Echo Show, a Alexa me lembrar dos itens de amanhã”</description>
+    </item>
+    
+    <item>
+      <title>100 dias de Código: Uma experiência para além da programação</title>
+      <link>http://carolinedantas.com/posts/100dias/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://carolinedantas.com/posts/100dias/</guid>
+      <description>100 dias de código, um desafio a minha Síndrome do Impostor
+Depois de 100 dias (05/06 ~15/09), eu só consigo parar e pensar: Como foi que eu consegui isso?? Então vai aqui a minha reflexão e resposta para essa questão.
+Até junho eu estava com uma dificuldade enorme de manter a rotina de forma que eu conseguisse codar todos os dias, e com isso mensurar o quanto estava avançando, onde deveria melhorar e planejar meus próximos passos.</description>
+    </item>
+    
+    <item>
+      <title>AfroPython</title>
+      <link>http://carolinedantas.com/posts/afropython/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://carolinedantas.com/posts/afropython/</guid>
+      <description>Eu achei que eu era uma pessoa muito emocionada, sabe daquelas que já se empolga com qualquer coisa, talvez eu seja um pouco assim, mas pela primeira vez eu vi que não era só isso!!! Não era só eu, todo mundo estava nesse frenesi…
+Nos dias 23 e 24 de novembro, aconteceu o AfroPythonConf, a primeira conferência de pessoas negras na tecnologia, em Porto Alegre, uma das cidades com mais casos de racismo no Brasil, por si só, isso já seria um grande feito, porém uma atmosfera foi criada, muito mais que um evento, o que vivemos lá, o que vimos, com certeza não pode ser expresso em palavras…mas vou me arriscar em tentar traduzir o que foi esse final de semana.</description>
+    </item>
+    
+    <item>
+      <title>Depressão e a Tecnologia da Informação</title>
+      <link>http://carolinedantas.com/posts/depressao_ti/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://carolinedantas.com/posts/depressao_ti/</guid>
+      <description>Um breve contexto de como cheguei aqui Faz seis anos que eu convivo com o monstro da Depressão, é um desafio a cada dia sobreviver, nesse tempo eu perdi muito do que a Caroline é, teve vários momentos que eu não reconheci mais quem eu sou, que o vazio no peito era tão grande que parecia que ele sangrava o tempo todo.
+Quando ingressei na universidade, tive contato com a programação, em 2012, e foi algo incrível para mim, me fez despertar para uma área que eu já tinha vontade, mas não conseguia muito descobrir como era que fazia para ingressar nesse ramo.</description>
+    </item>
+    
+  </channel>
+</rss>

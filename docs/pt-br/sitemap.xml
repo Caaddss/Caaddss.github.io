@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://carolinedantas.com/authors/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/authors/caroline-dantas/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/tdah/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/series/experi%C3%AAncia/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/series/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/100dias/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/afropython/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/series/ia/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/series/neuroci%C3%AAncia/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/neuro_3/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/depressao_ti/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/neuro_2/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/posts/neuro_1/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://carolinedantas.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://carolinedantas.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://carolinedantas.com/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cads </title>
+    <link>http://carolinedantas.com/en/</link>
+    <description>Recent content on Cads </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://carolinedantas.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Caroline Dantas</title>
+      <link>http://carolinedantas.com/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://carolinedantas.com/en/about/</guid>
+      <description>Caroline is an undergraduate student in Database, Data Developer at Pagarme one of the founders of RefatorandoCast (a podcast on technology with strokes of history) and owner of the DevFriend channel with development tips and Neuroscience. She was co-organizer of Django Girls São Paulo and creator and instructor of the Python Programming extension course: Inserting women in technology at the Federal University of ABC. Now, she is a co-organizer of SciPy-Sampa and Ambassador of SciPy-Latin America in Brazil</description>
+    </item>
+    
+  </channel>
+</rss>
