@@ -3,7 +3,7 @@ baseURL = "http://carolinedantas.com"
 title = "Cads "
 theme = "hugo-coder"
 defaultContentLanguage = "pt-br"
-
+publishDir = "docs"
 paginate = 20
 
 [params]

@@ -14,6 +14,7 @@ Depois de 100 dias (05/06 ~15/09), eu só consigo parar e pensar: Como foi que e
 
 Até junho eu estava com uma dificuldade enorme de manter a rotina de forma que eu conseguisse codar todos os dias, e com isso mensurar o quanto estava avançando, onde deveria melhorar e planejar meus próximos passos.
 
+
 Surgiu o desafio dos 100 dias de código, a dupla Aline Bastos e Lauren, me conveceram a participar, acho que elas nem sabiam que na verdade eu não queria participar porque achava que eu não daria conta. Porém, deixei essa brisa de lado, resolvi desafiar a minha Síndrome do Impostor, e a mim mesma.
 
 E foi a melhor coisa que eu fiz, desde que eu decidi me tornar desenvolvedora, em 2015. Sim, em 3 anos e eu considero essa a melhor decisão nesse período.
