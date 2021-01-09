@@ -15,6 +15,7 @@ paginate = 20
   #gravatar = "john.doe@example.com"
   favicon_32 = "/images/favicon-96x96.png"
   colorScheme = "auto"
+  googleAnalytics = "UA-141224934-1"
 
 
 [taxonomies]
