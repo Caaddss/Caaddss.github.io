@@ -14,11 +14,12 @@ paginate = 20
   avatarurl = "images/bio.jpg"
   favicon_32 = "/images/favicon-96x96.png"
   colorScheme = "auto"
-  #googleAnalytics = "UA-141224934-1"
-  #Google Analytics 4
-  googleAnalyticsID = "G-0264723027"
+  # googleAnalytics = "UA-141224934-1"
+  # Google Analytics 4
+  googleAnalyticsID = "G-264723027"
 
-
+[params.googleTagManager]
+    id = "G-264723027"
 
 [taxonomies]
   category = "categories"
