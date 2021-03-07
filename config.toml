@@ -8,14 +8,16 @@ paginate = 20
 
 [params]
   author = "Caroline Dantas"
-  info = "Python Developer | Data Scientist "
+  info = "Python Developer | Data Scientist"
   description = "Caroline Dantas' personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/bio.jpg"
-  #gravatar = "john.doe@example.com"
   favicon_32 = "/images/favicon-96x96.png"
   colorScheme = "auto"
-  googleAnalytics = "UA-141224934-1"
+  #googleAnalytics = "UA-141224934-1"
+  #Google Analytics 4
+  googleAnalyticsID = "G-0264723027"
+
 
 
 [taxonomies]
