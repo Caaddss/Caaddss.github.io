@@ -21,6 +21,10 @@ paginate = 20
 [params.googleTagManager]
     id = "G-264723027"
 
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "caaddss"    
+    
 [taxonomies]
   category = "categories"
   series = "series"
